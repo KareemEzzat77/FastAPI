@@ -14,3 +14,8 @@ uvicorn==0.20.0
 uvloop==0.17.0
 watchfiles==0.18.1
 websockets==10.4
+pandas==2.0.0
+numpy==1.23.5
+scikit-learn==1.2.2
+matplotlib==3.7.1
+bz2file==0.98
